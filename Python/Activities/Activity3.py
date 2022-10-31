@@ -1,3 +1,11 @@
+# Make a two-player Rock-Paper-Scissors game.
+# Remember the rules:
+# Rock beats scissors
+# Scissors beats paper
+# Paper beats rock
+
+
+
 # Get the users names
 user1 = input("What is Player 1's name? ")
 user2 = input("What is Player 2's name? ")
