@@ -1,3 +1,8 @@
+# Write a function sum() such that it can accept a list of elements and print the sum of all elements
+
+
+
+
 # Custom function to calculate sum
 def calculate_sum(numbers):
 	sum = 0
