@@ -1,9 +1,9 @@
 {
-  "id": 8701,
-  "username": "evkiran",
-  "firstName": "Kiran",
-  "lastName": "Venkat",
-  "email": "kiranvenkat@mail.com",
-  "password": "password1234",
-  "phone": "9812763412"
+  "id": 8702,
+  "username": "PreethiA",
+  "firstName": "Preethi",
+  "lastName": "Reddy",
+  "email": "preethi.alavalapatit@mail.com",
+  "password": "p@ssword1234",
+  "phone": "9718802715"
 }
